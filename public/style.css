@@ -1,0 +1,41 @@
+
+body{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.error, .info{
+    text-align: center;
+}
+
+.error{
+    color: #c40709;
+}
+
+.info{
+    color: #058b2d;
+}
+
+#wrapper{
+    width: 500px;
+    margin: 100px auto 50px;
+}
+
+article{
+    margin-top: 80px;
+    overflow: hidden;
+}
+
+input[type=text]{
+    float: left;
+    width: 400px;
+}
+
+input[type=submit]{
+    float: right;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.8em;
+}
